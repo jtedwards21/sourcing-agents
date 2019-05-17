@@ -19,8 +19,8 @@ class Home extends React.Component {
 
         <div class="jumbotron bg-cover main-cover">
           <div class="container">
-            <h1 class="display-3">Hello, world!</h1>
-            <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+            <h1 class="display-3">Thought about importing from China?</h1>
+            <p>Our sourcing agents will get you quality products at the price you want!</p>
           </div>
         </div>
 
