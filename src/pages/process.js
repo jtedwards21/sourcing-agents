@@ -35,35 +35,45 @@ class Pricing extends React.Component {
             </div>
             <div class="col-lg-3 process">
               <p className="number">3</p>
-              <h2>Competitive<br /> Rates</h2>
-              <p>We charge fair rates through a transparent sourcing process perfect for small to medium-sized businesses.</p>
+              <h2>Negotiation</h2>
+              <p>After generating feedback about the samples, we prepare to negotiate the unit price for mass production with suppliers. At this stage we already know of several credible suppliers, and this helps us in negotiations. Our goal is to get the best quality for the price being paid for the products.</p>
             </div>
             <div class="col-lg-3 process">
               <p className="number">4</p>
-              <h2>Competitive<br /> Rates</h2>
-              <p>We charge fair rates through a transparent sourcing process perfect for small to medium-sized businesses.</p>
+              <h2>Payment</h2>
+              <p>Payment is negotiated with the supplier and a downpayment is typically made to us at this point. By passing payment through us, clients can have a guarantee that defects are reduced to a minimum, products match specifications, and that the quantity shipped is correct. It is relatively easy to negotiate with suppliers because goods have not been shipped overseas yet.</p>
             </div>
             <div class="col-lg-3 process">
               <p className="number">5</p>
-              <h2>Competitive<br /> Rates</h2>
-              <p>We charge fair rates through a transparent sourcing process perfect for small to medium-sized businesses.</p>
+              <h2>Manufacturing</h2>
+              <p>During manufacturing, we can employ a variety of different methods to ensure that the products are produced according to specification. This can range from regular communication with the supplier to on-site audits.</p>
             </div>
             <div class="col-lg-3 process">
               <p className="number">6</p>
-              <h2>Competitive<br /> Rates</h2>
-              <p>We charge fair rates through a transparent sourcing process perfect for small to medium-sized businesses.</p>
+              <h2>Inspection</h2>
+              <p>Inspection post-production can be done through random sampling or 100% inspection, depending on the product and requirements. We can also arrange for inspections to be done at our facilities.</p>
             </div>
             <div class="col-lg-3 process">
               <p className="number">7</p>
-              <h2>Competitive<br /> Rates</h2>
-              <p>We charge fair rates through a transparent sourcing process perfect for small to medium-sized businesses.</p>
+              <h2>Shipping</h2>
+              <p>Shipping can be done through express, air freight or sea freight. We can help customers to select the appropriate shipping method and deal with customs if necessary. </p>
             </div>
             <div class="col-lg-3 process">
               <p className="number">8</p>
-              <h2>Competitive<br /> Rates</h2>
+              <h2>Customs</h2>
               <p>We charge fair rates through a transparent sourcing process perfect for small to medium-sized businesses.</p>
             </div>
           </div>
+        </div>
+
+        <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+          <div class="col-md-5 p-lg-5 mx-auto my-5">
+            <h1 class="display-4 font-weight-normal">Pricing</h1>
+            <p class="lead font-weight-normal">We offer basic, custom and professional sourcing plans to suit different business needs.</p>
+            <a class="btn btn-outline-secondary" href="./pricing">Learn More</a>
+          </div>
+          <div class="product-device box-shadow d-none d-md-block"></div>
+          <div class="product-device product-device-2 box-shadow d-none d-md-block"></div>
         </div>
 
         <Footer />
