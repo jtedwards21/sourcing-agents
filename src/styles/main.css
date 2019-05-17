@@ -9,3 +9,16 @@
 .main-cover {
     background-image: url("/lathe.jpg");
 }
+
+.process-cover {
+    background-image: url("/roof.jpg");
+}
+
+.number {
+  font-size: 55pt;
+  text-align: center;
+}
+
+.process {
+  text-align: center;
+}
