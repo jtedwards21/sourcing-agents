@@ -1,0 +1,11 @@
+.bg-cover {
+  background-size: cover;
+  color: white;
+  background-position: center center;
+  position: relative;
+  z-index: -2;
+}
+
+.main-cover {
+    background-image: url("/lathe.jpg");
+}
